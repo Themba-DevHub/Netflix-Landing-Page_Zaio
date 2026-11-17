@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 450" width="300" height="450">
+  <defs>
+    <linearGradient id="goldBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#3d2b1f"/>
+      <stop offset="50%" stop-color="#1f1814"/>
+      <stop offset="100%" stop-color="#0a0807"/>
+    </linearGradient>
+  </defs>
+  <rect width="300" height="450" fill="url(#goldBg)"/>
+  <!-- Gold Ambient Glow -->
+  <circle cx="150" cy="210" r="120" fill="#d4af37" opacity="0.25"/>
+  <!-- 4 Cast Silhouettes -->
+  <circle cx="80" cy="180" r="24" fill="#5c4033"/>
+  <circle cx="130" cy="160" r="28" fill="#8c6239"/>
+  <circle cx="180" cy="165" r="26" fill="#8c6239"/>
+  <circle cx="230" cy="185" r="22" fill="#5c4033"/>
+  <path d="M50 220 L110 220 L110 320 L50 320 Z" fill="#990000"/>
+  <path d="M100 200 L160 200 L165 320 L95 320 Z" fill="#d4af37"/>
+  <path d="M150 205 L210 205 L215 320 L145 320 Z" fill="#990000"/>
+  <path d="M200 225 L260 225 L260 320 L200 320 Z" fill="#222"/>
+  <!-- Title Shadow -->
+  <rect x="0" y="270" width="300" height="180" fill="linear-gradient(to top, rgba(0,0,0,0.98), transparent)"/>
+  <text x="150" y="380" font-family="'Montserrat', sans-serif" font-weight="900" font-size="28" fill="#d4af37" text-anchor="middle" letter-spacing="3">THE FOUR</text>
+  <text x="150" y="412" font-family="'Montserrat', sans-serif" font-weight="900" font-size="28" fill="#ffffff" text-anchor="middle" letter-spacing="3">OF US</text>
+  <text x="150" y="434" font-family="'Montserrat', sans-serif" font-weight="600" font-size="11" fill="#b3b3b3" text-anchor="middle" letter-spacing="1">DRAMA &bull; ROMANCE</text>
+</svg>

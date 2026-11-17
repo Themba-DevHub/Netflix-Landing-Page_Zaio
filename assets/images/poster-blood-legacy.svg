@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 450" width="300" height="450">
+  <defs>
+    <linearGradient id="caneBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1b2816"/>
+      <stop offset="45%" stop-color="#3b4d24"/>
+      <stop offset="70%" stop-color="#1c210d"/>
+      <stop offset="100%" stop-color="#080a05"/>
+    </linearGradient>
+  </defs>
+  <rect width="300" height="450" fill="url(#caneBg)"/>
+  <!-- Sugarcane Field Leaves Silhouettes -->
+  <path d="M40 320 Q60 120 120 80 Q90 180 70 320 Z" fill="#2d3d18" opacity="0.7"/>
+  <path d="M260 320 Q240 110 180 70 Q210 170 230 320 Z" fill="#2d3d18" opacity="0.7"/>
+  <path d="M110 320 Q140 100 200 60 Q170 180 150 320 Z" fill="#4d6624" opacity="0.8"/>
+  <path d="M200 320 Q170 130 110 90 Q140 190 170 320 Z" fill="#384a1a" opacity="0.8"/>
+  <!-- Netflix N badge -->
+  <path d="M20 20 L28 20 L28 54 L20 54 Z" fill="#B1060F"/>
+  <path d="M38 20 L46 20 L46 54 L38 54 Z" fill="#B1060F"/>
+  <path d="M20 20 L29 20 L46 54 L37 54 Z" fill="#E50914"/>
+  <!-- Center Silhouette of Dominant Matriarch/Patriarch -->
+  <circle cx="150" cy="180" r="30" fill="#111"/>
+  <path d="M100 240 Q150 210 200 240 L220 340 L80 340 Z" fill="#111"/>
+  <!-- Dramatic Title Overlay -->
+  <rect x="0" y="270" width="300" height="180" fill="linear-gradient(to top, rgba(0,0,0,0.98), transparent)"/>
+  <text x="150" y="375" font-family="'Montserrat', sans-serif" font-weight="900" font-size="28" fill="#e50914" text-anchor="middle" letter-spacing="3">BLOOD</text>
+  <text x="150" y="408" font-family="'Montserrat', sans-serif" font-weight="900" font-size="24" fill="#ffffff" text-anchor="middle" letter-spacing="4">LEGACY</text>
+  <text x="150" y="430" font-family="'Montserrat', sans-serif" font-weight="600" font-size="11" fill="#88b04b" text-anchor="middle" letter-spacing="1">SOUTH AFRICAN DRAMA</text>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" rx="8" fill="#141414"/>
+  <!-- Left column -->
+  <path d="M16 10 L26 10 L26 54 L16 54 Z" fill="#B1060F"/>
+  <!-- Right column -->
+  <path d="M38 10 L48 10 L48 54 L38 54 Z" fill="#B1060F"/>
+  <!-- Center diagonal ribbon -->
+  <path d="M16 10 L27 10 L48 54 L37 54 Z" fill="#E50914" filter="drop-shadow(-2px 0px 4px rgba(0,0,0,0.6))"/>
+</svg>

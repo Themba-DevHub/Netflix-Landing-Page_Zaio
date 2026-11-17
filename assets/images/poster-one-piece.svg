@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 450" width="300" height="450">
+  <defs>
+    <linearGradient id="opBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f5af19"/>
+      <stop offset="100%" stop-color="#e65c00"/>
+    </linearGradient>
+    <radialGradient id="sun" cx="50%" cy="30%" r="50%">
+      <stop offset="0%" stop-color="#fff7b0"/>
+      <stop offset="100%" stop-color="#f5af19"/>
+    </radialGradient>
+  </defs>
+  <rect width="300" height="450" fill="url(#opBg)"/>
+  <circle cx="150" cy="180" r="110" fill="url(#sun)" opacity="0.6"/>
+  <!-- Straw Hat -->
+  <ellipse cx="150" cy="120" rx="95" ry="30" fill="#f4c430"/>
+  <rect x="95" y="90" width="110" height="30" rx="10" fill="#d43f3f"/>
+  <path d="M100 95 Q150 50 200 95 Z" fill="#f4c430"/>
+  <!-- Character Face outline -->
+  <circle cx="150" cy="220" r="70" fill="#ffe0bd"/>
+  <path d="M110 230 Q150 280 190 230 Z" fill="#ffffff" stroke="#333" stroke-width="4"/>
+  <path d="M125 245 L175 245" stroke="#333" stroke-width="2"/>
+  <ellipse cx="125" cy="200" rx="14" ry="18" fill="#ffffff" stroke="#222" stroke-width="3"/>
+  <circle cx="127" cy="200" r="8" fill="#222"/>
+  <ellipse cx="175" cy="200" rx="14" ry="18" fill="#ffffff" stroke="#222" stroke-width="3"/>
+  <circle cx="173" cy="200" r="8" fill="#222"/>
+  <!-- Title -->
+  <rect x="0" y="340" width="300" height="110" fill="linear-gradient(to top, #000, transparent)"/>
+  <text x="150" y="400" font-family="'Montserrat', sans-serif" font-weight="900" font-size="28" fill="#ffffff" text-anchor="middle" letter-spacing="2">ONE PIECE</text>
+  <text x="150" y="425" font-family="'Montserrat', sans-serif" font-weight="600" font-size="12" fill="#ffd700" text-anchor="middle" letter-spacing="1">TV SERIES &bull; ANIME</text>
+</svg>
